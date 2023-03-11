@@ -1,0 +1,48 @@
+[
+  {
+    "question": "Was bedeutet 'egér' auf Deutsch?",
+    "answers": ["Maus", "Hund", "Katze", "Vogel"],
+    "correct_answer": "Maus",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'piros' auf Deutsch?",
+    "answers": ["rot", "blau", "grün", "gelb"],
+    "correct_answer": "rot",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'A holnap szombaton van.' auf Deutsch?",
+    "answers": ["Morgen ist Samstag.", "Heute ist Samstag.", "Samstag ist vorbei.", "Samstag ist ein Feiertag."],
+    "correct_answer": "Morgen ist Samstag.",
+    "difficulty": "mittel"
+  },
+  {
+    "question": "Was bedeutet 'Nem tudok magyarul.' auf Deutsch?",
+    "answers": ["Ich spreche kein Ungarisch.", "Ich verstehe kein Englisch.", "Wo ist das Hotel?", "Können Sie das bitte wiederholen?"],
+    "correct_answer": "Ich spreche kein Ungarisch",
+    "difficulty": "mittel"
+  },
+  {
+    "question": "Was bedeutet 'Nagyon szép az idő.' auf Deutsch?",
+    "answers": [
+      "Das Wetter ist schön.",
+      "Ich habe Hunger.",
+      "Wo ist die Toilette?",
+      "Wie viel kostet das?"
+    ],
+    "correct_answer": "Das Wetter ist schön.",
+    "difficulty": "schwer"
+  },
+  {
+    "question": "Was bedeutet 'Sok szerencsét!' auf Deutsch?",
+    "answers": [
+      "Guten Appetit!",
+      "Viel Erfolg!",
+      "Gute Besserung!",
+      "Frohe Weihnachten!"
+    ],
+    "correct_answer": "Viel Erfolg!",
+    "difficulty": "schwer"
+  }
+]

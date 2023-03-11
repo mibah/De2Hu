@@ -1,0 +1,189 @@
+[
+  {
+    "question": "Was bedeutet 'egér' auf Deutsch?",
+    "answers": ["Maus", "Hund", "Katze", "Vogel"],
+    "correct_answer": "Maus",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'piros' auf Deutsch?",
+    "answers": ["rot", "blau", "grün", "gelb"],
+    "correct_answer": "rot",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Szeretnél enni valamit?' auf Deutsch?",
+    "answers": ["Möchtest du etwas essen?", "Hast du schon gegessen?", "Was möchtest du trinken?", "Wie geht es dir?"],
+    "correct_answer": "Möchtest du etwas essen?",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'A fekete autó az én.' auf Deutsch?",
+    "answers": ["Das schwarze Auto gehört mir.", "Das rote Auto ist schneller.", "Das blaue Auto ist teuer.", "Das weiße Auto ist alt."],
+    "correct_answer": "Das schwarze Auto gehört mir.",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Az ablakot kinyitom.' auf Deutsch?",
+    "answers": ["Ich öffne das Fenster.", "Ich schließe das Fenster.", "Ich putze das Fenster.", "Ich sehe durch das Fenster."],
+    "correct_answer": "Ich öffne das Fenster.",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Holnap elutazom.' auf Deutsch?",
+    "answers": [
+      "Ich reise morgen ab.",
+      "Ich komme morgen an.",
+      "Ich werde morgen hier sein.",
+      "Ich bin morgen beschäftigt."
+    ],
+    "correct_answer": "Ich reise morgen ab.",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Mennyibe kerül?' auf Deutsch?",
+    "answers": [
+      "Wie viel kostet es?",
+      "Wie weit ist es?",
+      "Wie spät ist es?",
+      "Wie lange dauert es?"
+    ],
+    "correct_answer": "Wie viel kostet es?",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Hány éves vagy?' auf Deutsch?",
+    "answers": [
+      "Wie alt bist du?",
+      "Woher kommst du?",
+      "Was machst du beruflich?",
+      "Bist du verheiratet?"
+    ],
+    "correct_answer": "Wie alt bist du?",
+    "difficulty": "leicht"
+  },
+  {
+    "question": "Was bedeutet 'Nem találom a kulcsomat.' auf Deutsch?",
+    "answers": [
+      "Ich kann meinen Schlüssel nicht finden.",
+      "Ich brauche einen neuen Schlüssel.",
+      "Mein Schlüssel passt nicht.",
+      "Mein Schlüssel ist zu schwer."
+    ],
+    "correct_answer": "Ich kann meinen Schlüssel nicht finden.",
+    "difficulty": "leicht"
+  },
+  {    "question": "Was bedeutet 'elképesztő' auf Ungarisch?",    "answers": ["erstaunlich", "verrückt", "traurig", "glücklich"],
+    "correct_answer": "erstaunlich",
+    "difficulty": "mittel"
+  },
+    {
+      "question": "Was bedeutet 'szépséges' auf Ungarisch?",
+      "answers": ["wunderschön", "hässlich", "düster", "langweilig"],
+      "correct_answer": "wunderschön",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'meglepetés' auf Ungarisch?",
+      "answers": ["Überraschung", "Angst", "Freude", "Langeweile"],
+      "correct_answer": "Überraschung",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'háztartás' auf Ungarisch?",
+      "answers": ["Haushalt", "Garten", "Auto", "Küche"],
+      "correct_answer": "Haushalt",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'szerelem' auf Ungarisch?",
+      "answers": ["Liebe", "Hass", "Freundschaft", "Eifersucht"],
+      "correct_answer": "Liebe",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'megbocsátás' auf Ungarisch?",
+      "answers": ["Vergebung", "Stolz", "Eifersucht", "Wut"],
+      "correct_answer": "Vergebung",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'szokás' auf Ungarisch?",
+      "answers": ["Gewohnheit", "Neuheit", "Überraschung", "Veränderung"],
+      "correct_answer": "Gewohnheit",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'szerencse' auf Ungarisch?",
+      "answers": ["Glück", "Pech", "Sicherheit", "Gefahr"],
+      "correct_answer": "Glück",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'álmennyezet' auf Ungarisch?",
+      "answers": ["Decke", "Boden", "Wand", "Fenster"],
+      "correct_answer": "Decke",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'születésnap' auf Ungarisch?",
+      "answers": ["Geburtstag", "Weihnachten", "Neujahr", "Ostern"],
+      "correct_answer": "Geburtstag",
+      "difficulty": "mittel"
+    },
+    {
+      "question": "Was bedeutet 'Az élet túl rövid ahhoz, hogy rossz borokat igyunk.' auf Deutsch?",
+      "answers": [
+        "Das Leben ist zu kurz, um schlechte Weine zu trinken.",
+        "Das Leben ist zu kurz, um traurig zu sein.",
+        "Das Leben ist zu kurz, um aufzugeben.",
+        "Das Leben ist zu kurz, um nichts zu riskieren."
+      ],
+      "correct_answer": "Das Leben ist zu kurz, um schlechte Weine zu trinken.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was bedeutet 'Egy pillanatnyi boldogságért elérzékenyülni egész életedet megmérgezni az ostobaság.' auf Deutsch?",
+      "answers": [
+        "Sich wegen eines Augenblicks des Glücks rührselig zu fühlen, vergiftet das ganze Leben mit Dummheit.",
+        "Es ist besser, einmal im Leben zu lieben und verletzt zu werden, als niemals geliebt zu haben.",
+        "Glück kann man nicht kaufen.",
+        "Ein gutes Herz ist mehr wert als Reichtum."
+      ],
+      "correct_answer": "Sich wegen eines Augenblicks des Glücks rührselig zu fühlen, vergiftet das ganze Leben mit Dummheit.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was bedeutet 'Aki mer, az nyer.' auf Deutsch?",
+      "answers": [
+        "Wer wagt, gewinnt.",
+        "Wer zuerst kommt, mahlt zuerst.",
+        "Wer gut arbeitet, verdient viel Geld.",
+        "Wer viel redet, hat wenig zu sagen."
+      ],
+      "correct_answer": "Wer wagt, gewinnt.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was bedeutet 'Az igaz szerelem mindent legyőz.' auf Deutsch?",
+      "answers": [
+        "Die wahre Liebe überwindet alles.",
+        "Geld kann alles kaufen.",
+        "Lügen haben kurze Beine.",
+        "Wer anderen eine Grube gräbt, fällt selbst hinein."
+      ],
+      "correct_answer": "Die wahre Liebe überwindet alles.",
+      "difficulty": "schwer"
+    },
+    {
+      "question": "Was bedeutet 'Az élet akkor szép, amikor egyenlőtlenül oszlik meg a boldogság és a bánat.' auf Deutsch?",
+      "answers": [
+        "Das Leben ist schön, wenn Glück und Trauer ungleichmäßig verteilt sind.",
+        "Das Leben ist wie eine Achterbahnfahrt.",
+        "Gegensätze ziehen sich an.",
+        "Alles, was zählt, ist die innere Schönheit."
+      ],
+      "correct_answer": "Das Leben ist schön, wenn Glück und Trauer ungleichmäßig verteilt sind.",
+      "difficulty": "schwer"
+    }
+]
