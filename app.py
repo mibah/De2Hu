@@ -99,9 +99,9 @@ def main():
             print("korrekt")
             score["right"] += 1
         else:
-            st.write("Falsch!")
+            #st.write("Falsch!")
             print("falsch")
-            #st.write("Wrong! The correct answer is: " + question["correct_answer"])
+            st.write("Falsch! Die richtige Antwort ist: " + question["correct_answer"])
             score["wrong"] += 1
         # Save the updated score in session state
         del st.session_state["submit_button2"]
