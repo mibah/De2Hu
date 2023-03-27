@@ -98,6 +98,7 @@ def main():
             st.write("Richtig!")
             print("korrekt")
             score["right"] += 1
+
         else:
             #st.write("Falsch!")
             print("falsch")

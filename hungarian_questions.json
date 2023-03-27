@@ -1,12 +1,121 @@
 [
-  {    "question": "Was bedeutet 'tej' auf Deutsch?",    "answers": ["Milch", "Butter", "Ei", "Käse"],
-    "correct_answer": "Milch",
-    "difficulty": "leicht"
-  },
+    {    "question": "Was bedeutet 'tej' auf Deutsch?",
+      "answers": ["Milch", "Butter", "Ei", "Käse"],
+      "correct_answer": "Milch",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'virág' auf Deutsch?",
+      "answers": ["Blume", "Baum", "Gras", "Busch"],
+      "correct_answer": "Blume",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'papír' auf Deutsch?",
+      "answers": ["Papier", "Stift", "Bleistift", "Radiergummi"],
+      "correct_answer": "Papier",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'kék' auf Deutsch?",
+      "answers": ["Blau", "Rot", "Grün", "Gelb"],
+      "correct_answer": "Blau",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'óra' auf Deutsch?",
+      "answers": ["Uhr", "Telefon", "Computer", "Fernseher"],
+      "correct_answer": "Uhr",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'nagy' auf Deutsch?",
+      "answers": ["groß", "klein", "dick", "dünn"],
+      "correct_answer": "groß",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'kicsi' auf Deutsch?",
+      "answers": ["klein", "groß", "dünn", "dick"],
+      "correct_answer": "klein",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'madár' auf Deutsch?",
+      "answers": ["Vogel", "Hund", "Katze", "Maus"],
+      "correct_answer": "Vogel",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'számítógép' auf Deutsch?",
+      "answers": ["Computer", "Telefon", "Fernseher", "Radio"],
+      "correct_answer": "Computer",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'szeret' auf Deutsch?",
+      "answers": ["lieben", "hassen", "mögen", "verabscheuen"],
+      "correct_answer": "lieben",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'mond' auf Deutsch?",
+      "answers": ["sagen", "fragen", "antworten", "schweigen"],
+      "correct_answer": "sagen",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'ajtó' auf Deutsch?",
+      "answers": ["Tür", "Fenster", "Wand", "Decke"],
+      "correct_answer": "Tür",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'virágzik' auf Deutsch?",
+      "answers": ["blühen", "verwelken", "wachsen", "sterben"],
+      "correct_answer": "blühen",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'vár' auf Deutsch?",
+      "answers": ["warten", "kommen", "gehen", "bleiben"],
+      "correct_answer": "warten",
+      "difficulty": "leicht"
+    },
     {
       "question": "Was bedeutet 'kutya' auf Deutsch?",
       "answers": ["Hund", "Katze", "Vogel", "Maus"],
       "correct_answer": "Hund",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'föld' auf Deutsch?",
+      "answers": ["Erde", "Wasser", "Feuer", "Luft"],
+      "correct_answer": "Erde",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'levegő' auf Deutsch?",
+      "answers": ["Luft", "Wasser", "Feuer", "Erde"],
+      "correct_answer": "Luft",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'kenyér' auf Deutsch?",
+      "answers": ["Brot", "Käse", "Fleisch", "Obst"],
+      "correct_answer": "Brot",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'barát' auf Deutsch?",
+      "answers": ["Freund", "Feind", "Familie", "Kollege"],
+      "correct_answer": "Freund",
+      "difficulty": "leicht"
+    },
+    {
+      "question": "Was bedeutet 'falu' auf Deutsch?",
+      "answers": ["Dorf", "Stadt", "Land", "Haus"],
+      "correct_answer": "Dorf",
       "difficulty": "leicht"
     },
     {
@@ -88,10 +197,10 @@
       "difficulty": "mittel"
     },
     {
-      "question": "Was bedeutet 'kutya' auf Deutsch?",
-      "answers": ["Hund", "Katze", "Pferd", "Kuh"],
-      "correct_answer": "Hund",
-      "difficulty": "mittel"
+      "question": "Was bedeutet 'tűz' auf Deutsch?",
+      "answers": ["Feuer", "Wasser", "Erde", "Luft"],
+      "correct_answer": "Feuer",
+      "difficulty": "leicht"
     },
     {
       "question": "Was bedeutet 'csokoládé' auf Deutsch?",
@@ -106,38 +215,10 @@
       "difficulty": "mittel"
     },
     {
-      "question": "Was bedeutet 'alma' auf Deutsch?",
-      "answers": ["Apfel", "Birne", "Pfirsich", "Banane"],
-      "correct_answer": "Apfel",
-      "difficulty": "schwer"
-    },
-    {
       "question": "Was bedeutet 'só' auf Deutsch?",
       "answers": ["Salz", "Zucker", "Mehl", "Öl"],
       "correct_answer": "Salz",
       "difficulty": "schwer"
-    },
-    {    "question": "Was bedeutet 'ház' auf Deutsch?",    "answers": ["Haus", "Auto", "Baum", "Wasser"],
-    "correct_answer": "Haus",
-    "difficulty": "leicht"
-    },
-    {
-      "question": "Was bedeutet 'kutya' auf Deutsch?",
-      "answers": ["Hund", "Katze", "Maus", "Vogel"],
-      "correct_answer": "Hund",
-      "difficulty": "leicht"
-    },
-    {
-      "question": "Was bedeutet 'fa' auf Deutsch?",
-      "answers": ["Baum", "Haus", "Auto", "Wasser"],
-      "correct_answer": "Baum",
-      "difficulty": "leicht"
-    },
-    {
-      "question": "Was bedeutet 'víz' auf Deutsch?",
-      "answers": ["Wasser", "Auto", "Baum", "Haus"],
-      "correct_answer": "Wasser",
-      "difficulty": "leicht"
     },
     {
       "question": "Was bedeutet 'macska' auf Deutsch?",
@@ -167,12 +248,6 @@
       "question": "Was bedeutet 'toll' auf Deutsch?",
       "answers": ["Stift", "Bleistift", "Kugelschreiber", "Marker"],
       "correct_answer": "Stift",
-      "difficulty": "leicht"
-    },
-    {
-      "question": "Was bedeutet 'alma' auf Deutsch?",
-      "answers": ["Apfel", "Birne", "Banane", "Erdbeere"],
-      "correct_answer": "Apfel",
       "difficulty": "leicht"
     },
     {
